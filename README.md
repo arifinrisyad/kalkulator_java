@@ -22,7 +22,7 @@ Anda seorang asisten junior programmer diminta untuk membuat aplikasi kalkulator
     nol atau kesalahan lainnya.<br>
     <h3>Berikut Gambaran kalkulator-Java:</h3>
 ![kalkulator java](https://github.com/user-attachments/assets/98e2d017-c26c-429f-b068-977077443fb1)
-<br>![Thank You](https://github.com/arifinrisyad/kalkulator_java/blob/master/thank_you_scrolling.gif)
+
 
 
 
