@@ -20,6 +20,8 @@ Anda seorang asisten junior programmer diminta untuk membuat aplikasi kalkulator
 9. Validasi Input Pengguna a. Periksa apakah input yang diberikan oleh pengguna adalah angka yang valid. b. Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 10. Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox. b. Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan 
     nol atau kesalahan lainnya.<br>
-    <h3>Berikut Gambaran kalkulator-Java:</h3><br>
-    ![ss java](https://github.com/user-attachments/assets/8bf96fb1-5453-4426-a915-7778c583d9f6)
+    <h3>Berikut Gambaran kalkulator-Java:</h3>
+    ![ss java](https://github.com/user-attachments/assets/0d507ba5-aeb2-4174-87b5-a647c03cd155)
+
+
 
